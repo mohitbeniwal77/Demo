@@ -2,7 +2,7 @@ class LoginFile
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Login File");
+		System.out.println("Login");
 
 	}
 }
